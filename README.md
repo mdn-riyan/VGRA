@@ -2,7 +2,7 @@
 Review Paper
 
 # Title : Mobile Augmented Reality (AR) Marker-based for Indoor Library Navigation
-# Author : Rusnida Romli, Amir Firdhaus Razali, Nur Hafizah Ghazali, Nik Adilah Hanin and Siti Zuraidah Ibrahim
+ Author : Rusnida Romli, Amir Firdhaus Razali, Nur Hafizah Ghazali, Nik Adilah Hanin and Siti Zuraidah Ibrahim
 -- 1st International Symposium on Engineering and Technology (ISETech) 2019 --
 
 # OVERVIEW :
