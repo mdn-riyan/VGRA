@@ -6,7 +6,7 @@ Review Paper
 -- 1st International Symposium on Engineering and Technology (ISETech) 2019 --
 
 # OVERVIEW :
--This paper presents the development of Augmented Reality (AR) for smart campus urbanization using library as the environment for the demonstration of the AR prototype.
+- This paper presents the development of Augmented Reality (AR) for smart campus urbanization using library as the environment for the demonstration of the AR prototype.
 - This application is developed using Vuforia software to set the image marker-based and process the output into Unity3D software, Android Studio for the Main Menu interface and IBM Watson for voice recognition.
 - The final form of the application is successfully generated from the development of Augmented Reality (AR) application for the smart campus by using a library for the demonstration of the AR prototype.
 
