@@ -23,10 +23,11 @@ SENSORY FEEDBACK AND INTERACTIVITY : In this study, the AR application built has
 - 16 students and 4 librarians have been chosen to experience the AR applications at different scenes using their own smartphone device
 - There are 14 questions for them to answer directly using provided google form after the test are conducted. The questionnaires include the user profile background, the usefulness of the application, the ease of using the application, satisfaction of the application, representation of the user interface, and comment on how to improve it.
 
-- Usefulness 75%
-- Easy to use 80%
-- Satisfaction 60%
-- Representation 70%
+The result of the questionnaires:
+Usefulness 75%
+Easy to use 80%
+Satisfaction 60%
+Representation 70%
 
 # CONCLUSION
 - This project main contribution is to design and produce mobile application consist of interfaces of Augmented Reality on Android open-source system to testify the proficiency of virtual information shown on the screen and the viability of augmented object plotted at every section of the library.
